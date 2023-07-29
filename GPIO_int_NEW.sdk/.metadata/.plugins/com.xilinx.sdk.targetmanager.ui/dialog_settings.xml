@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="hw_wrapper_hw_platform_0-bmmFile"/>
+	<item value="hw_wrapper_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="false" key="hw_wrapper_hw_platform_0-partial_bit"/>
+	<item value="Local" key="hw_wrapper_hw_platform_0-target"/>
+	<item value="Auto Detect" key="hw_wrapper_hw_platform_0-device"/>
+	<item value="G:\Examples\GPIO_int_NEW\GPIO_int_NEW.sdk\hw_wrapper_hw_platform_0\hw_wrapper.bit" key="hw_wrapper_hw_platform_0-bitFile"/>
+</section>

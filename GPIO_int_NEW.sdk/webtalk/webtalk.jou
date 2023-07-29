@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# 
+# Start of session at: Wed Jul 22 20:34:37 2020
+# Process ID: 8176
+# Current directory: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/0002-GPIO_int/GPIO_int_NEW.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/0002-GPIO_int/GPIO_int_NEW.sdk/webtalk/webtalk.log
+# Journal file: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/0002-GPIO_int/GPIO_int_NEW.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

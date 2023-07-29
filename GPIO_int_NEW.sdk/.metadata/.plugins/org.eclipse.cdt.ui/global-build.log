@@ -1,0 +1,1173 @@
+14:48:19 **** Build of project gpio_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling coresightps_dcc"
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling standalone"
+In file included from usleep.c:56:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:49:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:53:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+14:48:42 **** Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  19064	   1144	  22568	  42776	   a718	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+14:51:56 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:46:60: error: 'Timer' undeclared (first use in this function); did you mean 'timer_t'?
+      SetupInterruptSystem(&Intc, &Gpio, GPIO_INTERRUPT_ID,&Timer,TIMER_IRPT_INTR);
+                                                            ^~~~~
+                                                            timer_t
+../src/helloworld.c:46:60: note: each undeclared identifier is reported only once for each function it appears in
+../src/helloworld.c:46:66: error: 'TIMER_IRPT_INTR' undeclared (first use in this function)
+      SetupInterruptSystem(&Intc, &Gpio, GPIO_INTERRUPT_ID,&Timer,TIMER_IRPT_INTR);
+                                                                  ^~~~~~~~~~~~~~~
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:72:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+../src/helloworld.c: In function 'GPIOIntrHandler':
+../src/helloworld.c:80:6: warning: unused variable 'delay' [-Wunused-variable]
+  int delay;
+      ^~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:26:13: warning: 'TimerIntrHandler' declared 'static' but never defined [-Wunused-function]
+ static void TimerIntrHandler(void *CallBackRef);
+             ^~~~~~~~~~~~~~~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+14:52:12 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'main':
+../src/helloworld.c:46:6: error: too few arguments to function 'SetupInterruptSystem'
+      SetupInterruptSystem(&Intc, &Gpio, GPIO_INTERRUPT_ID);
+      ^~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:22:13: note: declared here
+ static void SetupInterruptSystem(XScuGic *GicInstancePtr, XGpioPs *Gpio, u16 GpioIntrId,
+             ^~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:72:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:26:13: warning: 'TimerIntrHandler' declared 'static' but never defined [-Wunused-function]
+ static void TimerIntrHandler(void *CallBackRef);
+             ^~~~~~~~~~~~~~~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+14:52:35 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c:53:13: error: conflicting types for 'SetupInterruptSystem'
+ static void SetupInterruptSystem(XScuGic *GicInstancePtr, XGpioPs *Gpio, u16 GpioIntrId,
+             ^~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:22:13: note: previous declaration of 'SetupInterruptSystem' was here
+ static void SetupInterruptSystem(XScuGic *GicInstancePtr, XGpioPs *Gpio, u16 GpioIntrId);
+             ^~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:71:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:22:13: warning: 'SetupInterruptSystem' used but never defined
+ static void SetupInterruptSystem(XScuGic *GicInstancePtr, XGpioPs *Gpio, u16 GpioIntrId);
+             ^~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:25:13: warning: 'TimerIntrHandler' declared 'static' but never defined [-Wunused-function]
+ static void TimerIntrHandler(void *CallBackRef);
+             ^~~~~~~~~~~~~~~~
+../src/helloworld.c:53:13: warning: 'SetupInterruptSystem' defined but not used [-Wunused-function]
+ static void SetupInterruptSystem(XScuGic *GicInstancePtr, XGpioPs *Gpio, u16 GpioIntrId,
+             ^~~~~~~~~~~~~~~~~~~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+14:52:40 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c:52:13: error: conflicting types for 'SetupInterruptSystem'
+ static void SetupInterruptSystem(XScuGic *GicInstancePtr, XGpioPs *Gpio, u16 GpioIntrId,
+             ^~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:22:13: note: previous declaration of 'SetupInterruptSystem' was here
+ static void SetupInterruptSystem(XScuGic *GicInstancePtr, XGpioPs *Gpio, u16 GpioIntrId);
+             ^~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:70:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+../src/helloworld.c: At top level:
+../src/helloworld.c:22:13: warning: 'SetupInterruptSystem' used but never defined
+ static void SetupInterruptSystem(XScuGic *GicInstancePtr, XGpioPs *Gpio, u16 GpioIntrId);
+             ^~~~~~~~~~~~~~~~~~~~
+../src/helloworld.c:52:13: warning: 'SetupInterruptSystem' defined but not used [-Wunused-function]
+ static void SetupInterruptSystem(XScuGic *GicInstancePtr, XGpioPs *Gpio, u16 GpioIntrId,
+             ^~~~~~~~~~~~~~~~~~~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+14:52:58 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:69:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  66944	   3368	  23392	  93704	  16e08	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+14:53:10 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:69:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  66944	   3368	  23392	  93704	  16e08	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+14:53:14 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+14:54:06 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:80:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  66944	   3368	  23392	  93704	  16e08	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+14:54:19 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:50:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  66944	   3368	  23392	  93704	  16e08	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+14:54:56 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:49:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+14:58:19 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:44:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+14:58:21 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+14:59:20 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:46:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+14:59:24 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+14:59:31 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+14:59:52 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:01:10 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:46:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:02:10 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:03:19 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:04:34 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:42:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:04:37 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:05:39 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:35:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29772	   1928	  22632	  54332	   d43c	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:05:42 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:13:37 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:41:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:13:57 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:42:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  66920	   3368	  23392	  93680	  16df0	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:14:01 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:15:06 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:42:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  66920	   3368	  23392	  93680	  16df0	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:15:08 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:15:10 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:15:36 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:42:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  66920	   3368	  23376	  93664	  16de0	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:15:37 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:16:37 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:35:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:16:42 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:17:05 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:35:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:17:25 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:35:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:17:31 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:18:12 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:35:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:18:44 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:35:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:18:52 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:18:54 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:19:32 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:22:44 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:23:55 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:39:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29900	   1928	  22632	  54460	   d4bc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:23:58 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:24:21 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:39:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:24:24 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:26:04 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:31:02 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:32:05 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:35:92: error: 'Gpio' undeclared (first use in this function); did you mean 'Gpiops'?
+   XScuGic_Connect(XScuGicptr, GpioIntrId,(Xil_ExceptionHandler)XGpioPs_IntrHandler,(void *)Gpio);
+                                                                                            ^~~~
+                                                                                            Gpiops
+../src/helloworld.c:35:92: note: each undeclared identifier is reported only once for each function it appears in
+../src/helloworld.c:39:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+make: *** [src/subdir.mk:26: src/helloworld.o] Error 1
+15:32:20 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:39:50: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(Gpio, (void *)Gpio, GPIOIntrHandler);
+                                                  ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:33:31 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:39:56: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(xgpiops, (void *)xgpiops, GPIOIntrHandler);
+                                                        ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+15:33:35 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:36:19 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:36:27 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+15:36:44 **** Incremental Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:05:03 **** Auto Build of project gpio_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v4_0/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v4_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v7_0/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v7_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling standalone"
+In file included from usleep.c:56:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:53:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:51:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:49:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+20:05:17 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:39:56: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(xgpiops, (void *)xgpiops, GPIOIntrHandler);
+                                                        ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29932	   1928	  22632	  54492	   d4dc	gpio.elf
+'Finished building: gpio.elf.size'
+' '
+20:17:01 **** Auto Build of configuration Debug for project gpio ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/helloworld.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../gpio_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+../src/helloworld.c: In function 'SetupInterruptSystem':
+../src/helloworld.c:39:30: warning: passing argument 1 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(&xgpiops, (void *)xgpiops, GPIOIntrHandler);
+                              ^~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:262:42: note: expected 'XGpioPs *' {aka 'struct <anonymous> *'} but argument is of type 'XGpioPs **' {aka 'struct <anonymous> **'}
+ void XGpioPs_SetCallbackHandler(XGpioPs *InstancePtr, void *CallBackRef,
+                                 ~~~~~~~~~^~~~~~~~~~~
+../src/helloworld.c:39:57: warning: passing argument 3 of 'XGpioPs_SetCallbackHandler' from incompatible pointer type [-Wincompatible-pointer-types]
+   XGpioPs_SetCallbackHandler(&xgpiops, (void *)xgpiops, GPIOIntrHandler);
+                                                         ^~~~~~~~~~~~~~~
+In file included from ../src/helloworld.c:3:
+../../gpio_bsp/ps7_cortexa9_0/include/xgpiops.h:263:25: note: expected 'XGpioPs_Handler' {aka 'void (*)(void *, long unsigned int,  long unsigned int)'} but argument is of type 'void (*)(void *, int,  u32)' {aka 'void (*)(void *, int,  long unsigned int)'}
+         XGpioPs_Handler FuncPointer);
+         ~~~~~~~~~~~~~~~~^~~~~~~~~~~
+'Finished building: ../src/helloworld.c'
+' '
+'Building target: gpio.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../gpio_bsp/ps7_cortexa9_0/lib -o "gpio.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: gpio.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size gpio.elf  |tee "gpio.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  29940	   1928	  22632	  54500	   d4e4	gpio.elf
+'Finished building: gpio.elf.size'
+' '

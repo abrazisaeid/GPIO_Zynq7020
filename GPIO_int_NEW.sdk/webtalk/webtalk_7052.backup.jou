@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# 
+# Start of session at: Fri Dec 20 15:37:06 2019
+# Process ID: 7052
+# Current directory: G:/OK_Module_DIR/GPIO/GPIO_int/GPIO_int_NEW.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: G:/OK_Module_DIR/GPIO/GPIO_int/GPIO_int_NEW.sdk/webtalk/webtalk.log
+# Journal file: G:/OK_Module_DIR/GPIO/GPIO_int/GPIO_int_NEW.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

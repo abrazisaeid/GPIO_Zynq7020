@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Jul 22 20:03:46 2020
+# Process ID: 14416
+# Current directory: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/0002-GPIO_int
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14384 D:\All\Software\ZZ-Hardware\80-Vivado\01-PROJECT\0002-GPIO_int\GPIO_int_NEW.xpr
+# Log file: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/0002-GPIO_int/vivado.log
+# Journal file: D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/0002-GPIO_int\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/0002-GPIO_int/GPIO_int_NEW.xpr
+update_compile_order -fileset sources_1
+launch_sdk -workspace D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/0002-GPIO_int/GPIO_int_NEW.sdk -hwspec D:/All/Software/ZZ-Hardware/80-Vivado/01-PROJECT/0002-GPIO_int/GPIO_int_NEW.sdk/hw_wrapper.hdf
