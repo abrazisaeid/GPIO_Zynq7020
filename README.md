@@ -80,10 +80,14 @@ This function, use for showing which pis is Ip=nput and which pin is output and 
 
 	}
 
+in my code, I want to use a pin as Input that when changing the state of this pin calls a function with the name of XGpioPs_IntrHandler.
 
 * XGpioPs_SetOutputEnablePin
   
   This function is used for setting the Output Enables of all the pins in the specified bank.
-  
-it will continue as soon as possible.
 
+* XGpioPs_IntrHandler
+  
+  This function is used to toggle the state of our led pin.
+
+Please don’t hesitate to contact me for any further assistance.
