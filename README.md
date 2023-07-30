@@ -48,5 +48,9 @@ in this simplified example we have 2 pins as GPIO: One for Input, One for Output
   
 This function, use for showing which pis is Ip=nput and which pin is output and for this aim we use it.
 
+* SetupInterruptSystem()
+
+  this function is for activation of interrupt of the system and it contains several functions for init interrupt.
+
 it will continue as soon as possible.
 
