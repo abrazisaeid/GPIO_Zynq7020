@@ -52,10 +52,10 @@ This function, use for showing which pis is Ip=nput and which pin is output and 
 
   this function is for activation of interrupt of the system and it contains several functions for init interrupt of GPIO. this function contains:
 
-  static void SetupInterruptSystem(XScuGic *XScuGicptr, XGpioPs *xgpiops, u16 GpioIntrId)
-  {  
-
-    XScuGic_Config *IntcConfig;
+	  	static void SetupInterruptSystem(XScuGic *XScuGicptr, XGpioPs *xgpiops, u16 GpioIntrId)
+	  	{  
+		
+		XScuGic_Config *IntcConfig;
   
 		Xil_ExceptionInit();
   
