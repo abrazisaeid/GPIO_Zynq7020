@@ -8,31 +8,31 @@ first of all, we have 2 subfunctions and 1 main:
 * SetupInterruptSystem
 * main
 
-#  in the Mian part, we have this code:
+# in the Mian part, we have this code:
 
-int main()
-{
-
-  XGpioPs_Config *GPIOConfigPtr;
-  
-  init_platform();
-  
-  GPIOConfigPtr = XGpioPs_LookupConfig(XPAR_XGPIOPS_0_DEVICE_ID);
-  
-  XGpioPs_CfgInitialize(&xGpioPs, GPIOConfigPtr,GPIOConfigPtr->BaseAddr);
-  
-  XGpioPs_SetDirectionPin(&xGpioPs, pbsw, 0);
-  
-  SetupInterruptSystem(&xscugic, &xGpioPs, XPS_GPIO_INT_ID);
-  
-  XGpioPs_SetDirectionPin(&xGpioPs, ledpin, 1);
-  
-  XGpioPs_SetOutputEnablePin(&xGpioPs, ledpin, 1);
-  
-  while(1){
-  }
-
-}
+	int main()
+	{
+	
+	  XGpioPs_Config *GPIOConfigPtr;
+	  
+	  init_platform();
+	  
+	  GPIOConfigPtr = XGpioPs_LookupConfig(XPAR_XGPIOPS_0_DEVICE_ID);
+	  
+	  XGpioPs_CfgInitialize(&xGpioPs, GPIOConfigPtr,GPIOConfigPtr->BaseAddr);
+	  
+	  XGpioPs_SetDirectionPin(&xGpioPs, pbsw, 0);
+	  
+	  SetupInterruptSystem(&xscugic, &xGpioPs, XPS_GPIO_INT_ID);
+	  
+	  XGpioPs_SetDirectionPin(&xGpioPs, ledpin, 1);
+	  
+	  XGpioPs_SetOutputEnablePin(&xGpioPs, ledpin, 1);
+	  
+	  while(1){
+	  }
+	
+	}
 
 now let me tell you what was it.
 
