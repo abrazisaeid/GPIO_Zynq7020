@@ -90,7 +90,7 @@ XGpioPs_SetOutputEnablePin
 ```bash
 XGpioPs_IntrHandler
 ```
-This function is used to toggle the state of our led pin.
+This function is an interrupt of GPIO that is used to toggle the state of our led pin.
 
 Please don’t hesitate to contact me for any further assistance.
 
